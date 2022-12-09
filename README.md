@@ -1,4 +1,4 @@
-👋 Hey moi c'est **Caroline**
+👋 Bienvenue sur mon repo !
 -----------------
 ![Cover](https://github.com/Carolionne/Carolionne/blob/main/bg.jpg)
 
