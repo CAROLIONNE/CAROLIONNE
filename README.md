@@ -20,7 +20,7 @@
  
  ----------------------------------
 Actuellement j'ai intégré l'incubateur d'Euratechnologie, j'y ai appris :  
-- la conception : **MCD, MLD, Usecase, charte graphique**
+- La conception : **MCD, MLD, Usecase, charte graphique**
 -  **React js**
 -  **Srum**
 -  **Travail d'équipe**
