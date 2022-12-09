@@ -1,14 +1,34 @@
-👋 moi c'est Caroline, 
- Développeuse web junior passionée et très motivée
- J'ai commencé par apprendre les bases en auto didacte puis j'ai obtenu mon diplome de dev web.
- Dans cette formation, j'ai appris la gestion de base de données (mysql et mongoDB), 
- des notions de cyber-sécurité, le réferencement naturel (SEO), Javascript front et back (node JS, Vue JS).*
- Tout les projets sont professionnalisant en nous mettant dans de réelles conditions de travail.
-Actuellement j'ai intégré l'incubateur d'Euratechnologie, j'y ai appris la partie conception ainsi que REACT.
-Avec mon équipe, nous réalisons un projet d'agence de voyages, nous utilisons aussi la méthode agile Scrum avec l'aide de Jira.
-J'aimerais trouver une entreprise pour mettre mes compétences a son service, et continuer de progresser aux cotés de personnes plus expérimentées.
+👋 Hey moi c'est **Caroline**
+-----------------
+![Cover](https://github.com/Carolionne/Carolionne/blob/main/bg.jpg)
 
-<!---
-CAROLIONNE/CAROLIONNE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+ # Développeuse web junior **passionée** et **très motivée**
+ J'ai commencé par apprendre les bases en autodidacte via des tutos sur le web  
+ j'ai confirmé mon désir de reconversion en m'engageant dans une formation chez openclassrooms,  
+ à la suite de celle-ci j'ai obtenu mon diplome de developpeuse web.  
+ Dans cette formation, j'ai appris :
+ - **mysql** && **mongoDB**, 
+ - des notions de cyber-sécurité **OWASP**
+ - Réferencement naturel **SEO**
+ - Accessibilité
+ - Vanilla **Javascript** 
+ - **Node JS**
+ - **Vue JS**
+ - **Sass**
+ Tout les projets sont **professionnalisants**, dans de réelles conditions de travail, en toute autonomie.
+ 
+ ----------------------------------
+Actuellement j'ai intégré l'incubateur d'Euratechnologie, j'y ai appris :  
+- la conception : **MCD, MLD, Usecase, charte graphique**
+-  **React js**
+-  **Srum**
+-  **Travail d'équipe**
+-  **Jira**
+-  **Tailwind**
+
+
+Avec mon équipe, nous réalisons un projet d'agence de voyages, nous utilisons aussi la méthode agile Scrum avec **Jira**.
+
+## J'aimerais trouver une entreprise pour mettre mes compétences à profit et continuer de progresser aux cotés de personnes plus expérimentées.
+
