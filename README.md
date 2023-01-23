@@ -2,7 +2,7 @@
 -----------------
 <p align="center"> <img width="400" src="https://github.com/Carolionne/Carolionne/blob/main/bg.jpg"> </p>
 
-## Développeuse web junior **passionée** et **très motivée**
+## Développeuse web junior **passionnée** et **très motivée**
  Pour commencer j'ai appris en autodidacte la structure HTML 5 et le style avec CSS 3  via des tutos sur le web.  
  puis j'ai confirmé mon désir de reconversion en m'engageant dans une formation chez *openclassrooms*,  
  à la suite de celle-ci j'ai obtenu mon diplome de developpeuse web.  
